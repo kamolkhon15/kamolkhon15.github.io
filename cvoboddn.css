@@ -1,0 +1,31 @@
+.he1 {
+
+    background-color: rgb(117, 0, 172,0.986);
+    float: left;
+    display: inline;
+    
+}
+.b1 {
+    text-decoration: none;
+    display: block;
+    padding: 16px 14px;
+    color: antiquewhite;
+}
+.b1:hover {
+    background-color:rgb(255, 251, 0);
+    color: rgb(0, 0, 0);
+}
+#body1 {
+    margin:0 auto;
+    max-width: max-content;
+    text-align: center;
+}
+body {
+    background-image:linear-gradient(to left, rgba(117, 0, 172, 0.986),rgb(255, 251, 0));
+}
+li {
+    font-size: 20px;
+}
+img {
+    padding-left: -20px;
+}
