@@ -1,39 +1,39 @@
 .he1 {
 
-    background-color: rgb(117, 0, 172,0.986);
+    background-color: rgb(54, 230, 0);
     float: left;
     display: inline;
     
 }
-.b1 {
+.b2 {
     text-decoration: none;
     display: block;
     padding: 16px 14px;
-    color: antiquewhite;
 }
-.b1:hover {
-    background-color:rgb(255, 251, 0);
+.b2:hover {
+    background-color: rgb(225, 0, 255);
     color: rgb(0, 0, 0);
 }
 #body1 {
     margin:0 auto;
     max-width: max-content;
-    text-align: center;
+    
 }
 body {
-    background-image:linear-gradient(to left, rgba(117, 0, 172, 0.986),rgb(255, 251, 0));
+    background-image:linear-gradient(to right,rgb(0, 204, 255),rgb(0, 255, 0));
 }
 li {
     font-size: 20px;
 }
 img {
-    padding-left: -20px;
+    padding-left: -200px;
 }
+
 
 .drop-down-list {
     display: none;
     position: absolute;
-    background-color: rgb(162, 0, 255);
+    background-color: rgb(10, 75, 75);
     min-width: 160px;
 }
  
